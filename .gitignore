@@ -1,0 +1,34 @@
+# Databases #
+#############
+*.db
+*.sql
+*.sqlite
+
+# Repository #
+##############
+.git
+
+# System #
+##########
+.DS_Store
+ehthumbs.db
+Thumbs.db
+*.sh
+
+# Project #
+###########
+.checkstyle
+.classpath
+.gradle
+.nb-gradle
+.idea
+.project
+.settings
+
+
+# 默认忽略的文件
+/PasteWare.iws
+
+# 项目排除路径
+/build/
+/out/
